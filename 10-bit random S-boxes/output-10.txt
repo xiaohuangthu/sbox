@@ -1,0 +1,300 @@
+3	sbox-10-0.txt
+There are 3 good columns found. 
+4.42214	1.17225	0.010549	0.335272	5.94117
+3	sbox-10-1.txt
+There are 3 good columns found. 
+4.40818	0.400347	0.010612	0.206058	5.02602
+3	sbox-10-2.txt
+There are 3 good columns found. 
+4.4041	0.841985	0.010594	0.281929	5.53945
+3	sbox-10-3.txt
+There are 3 good columns found. 
+4.4034	0.905397	0.010814	0.036803	5.35724
+3	sbox-10-4.txt
+There are 3 good columns found. 
+4.40288	0.907527	0.010627	0.01405	5.33601
+3	sbox-10-5.txt
+There are 3 good columns found. 
+4.39709	0.642707	0.010905	0.047172	5.09872
+3	sbox-10-6.txt
+There are 3 good columns found. 
+4.4129	1.73576	0.010506	0.582176	6.74242
+3	sbox-10-7.txt
+There are 3 good columns found. 
+4.41722	0.689208	0.0106	0.205823	5.32375
+3	sbox-10-8.txt
+There are 3 good columns found. 
+4.39469	0.752172	0.010732	0.188742	5.34722
+3	sbox-10-9.txt
+There are 3 good columns found. 
+4.38605	0.68389	0.010726	0.043874	5.12542
+3	sbox-10-10.txt
+There are 3 good columns found. 
+4.38263	0.877522	0.0106	0.323246	5.59494
+3	sbox-10-11.txt
+There are 3 good columns found. 
+4.38264	0.34272	0.01074	0.472332	5.20926
+3	sbox-10-12.txt
+There are 3 good columns found. 
+4.38578	1.29294	0.010611	0.033915	5.72411
+3	sbox-10-13.txt
+There are 3 good columns found. 
+4.40766	0.839671	0.010847	0.417471	5.67659
+3	sbox-10-14.txt
+There are 3 good columns found. 
+4.42177	1.04676	0.010522	0.340465	5.8205
+3	sbox-10-15.txt
+There are 3 good columns found. 
+4.38764	0.785171	0.010608	0.188877	5.3732
+3	sbox-10-16.txt
+There are 3 good columns found. 
+4.39594	0.49229	0.01059	0.184151	5.0838
+3	sbox-10-17.txt
+There are 3 good columns found. 
+4.41029	0.837257	0.010562	0.116396	5.3754
+3	sbox-10-18.txt
+There are 3 good columns found. 
+4.40312	1.14968	0.010701	0.218732	5.78319
+3	sbox-10-19.txt
+There are 3 good columns found. 
+4.38823	0.851341	0.010644	0.310671	5.56174
+3	sbox-10-20.txt
+There are 3 good columns found. 
+4.41115	0.669346	0.021215	0.16119	5.2638
+3	sbox-10-21.txt
+There are 3 good columns found. 
+4.40457	1.87002	0.010573	0.362388	6.64855
+3	sbox-10-22.txt
+There are 3 good columns found. 
+4.38985	0.962516	0.010795	0.219195	5.58329
+3	sbox-10-23.txt
+There are 3 good columns found. 
+4.43482	0.757207	0.010549	0.319457	5.52297
+3	sbox-10-24.txt
+There are 3 good columns found. 
+4.41309	0.805048	0.010736	0.089716	5.31945
+3	sbox-10-25.txt
+There are 3 good columns found. 
+4.41153	0.946863	0.010573	0.092692	5.46267
+3	sbox-10-26.txt
+There are 3 good columns found. 
+4.44604	0.848812	0.010524	0.209886	5.51615
+3	sbox-10-27.txt
+There are 3 good columns found. 
+4.41234	0.89291	0.010464	0.330106	5.64675
+3	sbox-10-28.txt
+There are 3 good columns found. 
+4.38763	0.766129	0.010674	0.23339	5.39866
+3	sbox-10-29.txt
+There are 3 good columns found. 
+4.43143	1.29223	0.01055	0.029378	5.76456
+3	sbox-10-30.txt
+There are 3 good columns found. 
+4.41242	0.947996	0.010704	0.181088	5.55308
+3	sbox-10-31.txt
+There are 3 good columns found. 
+4.40343	0.804017	0.010522	0.086837	5.30577
+3	sbox-10-32.txt
+There are 3 good columns found. 
+4.42139	1.37233	0.010586	0.065492	5.8709
+3	sbox-10-33.txt
+There are 3 good columns found. 
+4.39174	0.788992	0.010616	0.46756	5.65983
+3	sbox-10-34.txt
+There are 3 good columns found. 
+4.40278	0.510983	0.010626	0.226108	5.15133
+3	sbox-10-35.txt
+There are 3 good columns found. 
+4.39432	0.800324	0.012406	0.298745	5.50666
+3	sbox-10-36.txt
+There are 3 good columns found. 
+4.40373	0.591914	0.010642	0.342065	5.34921
+3	sbox-10-37.txt
+There are 3 good columns found. 
+4.39949	1.07836	0.01094	0.094871	5.58461
+3	sbox-10-38.txt
+There are 3 good columns found. 
+4.39802	1.18196	0.010548	0.343565	5.93501
+3	sbox-10-39.txt
+There are 3 good columns found. 
+4.40195	1.31897	0.010599	0.12116	5.85368
+3	sbox-10-40.txt
+There are 3 good columns found. 
+4.38742	0.68143	0.010637	0.04443	5.12476
+3	sbox-10-41.txt
+There are 3 good columns found. 
+4.38132	0.780075	0.010799	0.28986	5.46298
+3	sbox-10-42.txt
+There are 3 good columns found. 
+4.76432	1.19435	0.010663	0.309975	6.28043
+3	sbox-10-43.txt
+There are 3 good columns found. 
+4.25908	0.787568	0.010812	0.101249	5.1596
+3	sbox-10-44.txt
+There are 3 good columns found. 
+4.387	0.568796	0.010779	0.088242	5.05568
+3	sbox-10-45.txt
+There are 3 good columns found. 
+4.36831	1.25201	0.010648	0.333977	5.96601
+3	sbox-10-46.txt
+There are 3 good columns found. 
+4.41574	0.729267	0.010565	0.132708	5.2892
+3	sbox-10-47.txt
+There are 3 good columns found. 
+4.40287	0.633795	0.01075	0.261835	5.3101
+3	sbox-10-48.txt
+There are 3 good columns found. 
+4.41019	1.24192	0.010604	0.157173	5.82087
+3	sbox-10-49.txt
+There are 3 good columns found. 
+4.41091	0.69165	0.010601	0.462641	5.57669
+3	sbox-10-50.txt
+There are 3 good columns found. 
+4.4045	0.743885	0.010613	0.056627	5.21651
+3	sbox-10-51.txt
+There are 3 good columns found. 
+4.41859	1.17897	0.010575	0.310485	5.91968
+3	sbox-10-52.txt
+There are 3 good columns found. 
+4.39025	0.956288	0.010596	0.156064	5.51412
+3	sbox-10-53.txt
+There are 3 good columns found. 
+4.37546	0.609965	0.010694	0.320667	5.31762
+3	sbox-10-54.txt
+There are 3 good columns found. 
+4.39504	0.756282	0.010635	0.367232	5.53005
+3	sbox-10-55.txt
+There are 3 good columns found. 
+4.49552	1.37381	0.010632	0.169005	6.05289
+3	sbox-10-56.txt
+There are 3 good columns found. 
+4.42025	0.777166	0.010658	0.376538	5.58554
+3	sbox-10-57.txt
+There are 3 good columns found. 
+4.35696	0.741758	0.010788	0.031758	5.14208
+3	sbox-10-58.txt
+There are 3 good columns found. 
+4.48762	0.738337	0.010667	0.255007	5.49548
+3	sbox-10-59.txt
+There are 3 good columns found. 
+4.38887	0.673973	0.010647	0.205108	5.27943
+3	sbox-10-60.txt
+There are 3 good columns found. 
+4.40955	0.938902	0.010621	0.314031	5.67402
+3	sbox-10-61.txt
+There are 3 good columns found. 
+4.39464	1.00319	0.010626	0.185953	5.59539
+3	sbox-10-62.txt
+There are 3 good columns found. 
+4.39639	0.335656	0.010539	0.292308	5.03575
+3	sbox-10-63.txt
+There are 3 good columns found. 
+4.41151	0.630833	0.010817	0.307488	5.36157
+3	sbox-10-64.txt
+There are 3 good columns found. 
+4.42788	0.594968	0.01059	0.123425	5.15769
+3	sbox-10-65.txt
+There are 3 good columns found. 
+4.39496	0.834557	0.010565	0.198941	5.43987
+3	sbox-10-66.txt
+There are 3 good columns found. 
+4.39384	0.728622	0.010589	0.053856	5.18776
+3	sbox-10-67.txt
+There are 3 good columns found. 
+4.37991	0.798897	0.010739	0.279434	5.46985
+3	sbox-10-68.txt
+There are 3 good columns found. 
+4.38171	1.19532	0.010671	0.223174	5.81176
+3	sbox-10-69.txt
+There are 3 good columns found. 
+4.38525	0.43498	0.010728	0.15113	4.98293
+3	sbox-10-70.txt
+There are 3 good columns found. 
+4.42025	0.925191	0.012437	0.363328	5.72211
+3	sbox-10-71.txt
+There are 3 good columns found. 
+4.48294	0.918824	0.010656	0.349301	5.76564
+3	sbox-10-72.txt
+There are 3 good columns found. 
+4.41559	0.768171	0.010601	0.398353	5.59364
+3	sbox-10-73.txt
+There are 3 good columns found. 
+4.39648	0.623867	0.010613	0.021538	5.05336
+3	sbox-10-74.txt
+There are 3 good columns found. 
+4.43827	0.84256	0.010644	0.444501	5.73692
+3	sbox-10-75.txt
+There are 3 good columns found. 
+4.41019	0.689595	0.010761	0.14553	5.25706
+3	sbox-10-76.txt
+There are 3 good columns found. 
+4.41796	0.945827	0.011497	0.149915	5.52627
+3	sbox-10-77.txt
+There are 3 good columns found. 
+4.41317	0.704336	0.01049	0.1267	5.25556
+3	sbox-10-78.txt
+There are 3 good columns found. 
+4.41805	0.506577	0.010652	0.263219	5.19946
+3	sbox-10-79.txt
+There are 3 good columns found. 
+4.40043	0.618852	0.010462	0.132741	5.16344
+3	sbox-10-80.txt
+There are 3 good columns found. 
+4.40308	0.559129	0.010708	0.1283	5.10213
+3	sbox-10-81.txt
+There are 3 good columns found. 
+4.41515	0.670647	0.010824	0.087881	5.18542
+3	sbox-10-82.txt
+There are 3 good columns found. 
+4.39378	0.933303	0.010649	0.347434	5.68611
+3	sbox-10-83.txt
+There are 3 good columns found. 
+4.41501	0.805311	0.010503	0.290213	5.52198
+3	sbox-10-84.txt
+There are 3 good columns found. 
+4.40953	1.13858	0.010646	0.156872	5.71653
+3	sbox-10-85.txt
+There are 3 good columns found. 
+4.41379	1.19734	0.010552	0.123047	5.74577
+3	sbox-10-86.txt
+There are 3 good columns found. 
+4.38993	0.543581	0.010562	0.111757	5.05669
+3	sbox-10-87.txt
+There are 3 good columns found. 
+4.39275	0.676059	0.010646	0.331327	5.41164
+3	sbox-10-88.txt
+There are 3 good columns found. 
+4.39922	0.734001	0.010634	0.200856	5.34561
+3	sbox-10-89.txt
+There are 3 good columns found. 
+4.40255	0.539051	0.010671	0.261763	5.21493
+3	sbox-10-90.txt
+There are 3 good columns found. 
+4.39595	0.844791	0.010575	0.017461	5.26961
+3	sbox-10-91.txt
+There are 3 good columns found. 
+4.39185	0.882619	0.01066	0.457201	5.74321
+3	sbox-10-92.txt
+There are 3 good columns found. 
+4.42391	0.984535	0.01062	0.400582	5.82062
+3	sbox-10-93.txt
+There are 3 good columns found. 
+4.40137	0.91937	0.010601	0.076769	5.40906
+3	sbox-10-94.txt
+There are 3 good columns found. 
+4.4078	0.651871	0.010626	0.247779	5.3189
+3	sbox-10-95.txt
+There are 3 good columns found. 
+4.39216	0.562695	0.010542	0.214476	5.18074
+3	sbox-10-96.txt
+There are 3 good columns found. 
+4.39343	0.845089	0.010677	0.049137	5.29917
+3	sbox-10-97.txt
+There are 3 good columns found. 
+4.39716	0.686315	0.010593	0.119944	5.2149
+3	sbox-10-98.txt
+There are 3 good columns found. 
+4.40477	0.431816	0.010593	0.132059	4.98008
+3	sbox-10-99.txt
+There are 3 good columns found. 
+4.38942	0.904163	0.010547	0.406511	5.71157
