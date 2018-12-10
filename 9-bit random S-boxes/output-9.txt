@@ -1,0 +1,300 @@
+3	sbox-9-0.txt
+There are 3 good columns found. 
+0.330616	0.108542	0.0022276	0.0055669	0.447049
+3	sbox-9-1.txt
+There are 3 good columns found. 
+0.336047	0.178499	0.0022835	0.0065946	0.523598
+3	sbox-9-2.txt
+There are 3 good columns found. 
+0.331986	0.147113	0.0022521	0.0048062	0.486314
+3	sbox-9-3.txt
+There are 3 good columns found. 
+0.32291	0.180142	0.0021721	0.0160107	0.52133
+3	sbox-9-4.txt
+There are 3 good columns found. 
+0.326145	0.228435	0.0022108	0.0070422	0.563937
+3	sbox-9-5.txt
+There are 3 good columns found. 
+0.328876	0.0902157	0.0021992	0.0111305	0.432524
+3	sbox-9-6.txt
+There are 3 good columns found. 
+0.331856	0.157423	0.0022374	0.0107223	0.502394
+3	sbox-9-7.txt
+There are 3 good columns found. 
+0.331807	0.13731	0.0022384	0.0104041	0.481859
+3	sbox-9-8.txt
+There are 3 good columns found. 
+0.327381	0.275463	0.0023002	0.002787	0.608121
+3	sbox-9-9.txt
+There are 3 good columns found. 
+0.321106	0.119653	0.0021481	0.0073427	0.450348
+3	sbox-9-10.txt
+There are 3 good columns found. 
+0.314673	0.139928	0.0021463	0.0060238	0.46287
+3	sbox-9-11.txt
+There are 3 good columns found. 
+0.321498	0.0877938	0.0021122	0.0034518	0.414993
+3	sbox-9-12.txt
+There are 3 good columns found. 
+0.316296	0.103812	0.0021813	0.0023336	0.424723
+3	sbox-9-13.txt
+There are 3 good columns found. 
+0.331443	0.0764428	0.0022548	0.0043474	0.414621
+3	sbox-9-14.txt
+There are 3 good columns found. 
+0.324509	0.260583	0.0021717	0.003346	0.590713
+3	sbox-9-15.txt
+There are 3 good columns found. 
+0.328328	0.116856	0.0021986	0.0124509	0.459974
+3	sbox-9-16.txt
+There are 3 good columns found. 
+0.328692	0.13159	0.0021747	0.0214961	0.484107
+3	sbox-9-17.txt
+There are 3 good columns found. 
+0.3252	0.119653	0.0022101	0.0103326	0.457498
+3	sbox-9-18.txt
+There are 3 good columns found. 
+0.330669	0.182943	0.002221	0.0045948	0.52053
+3	sbox-9-19.txt
+There are 3 good columns found. 
+0.333546	0.155693	0.0022446	0.0133157	0.504957
+3	sbox-9-20.txt
+There are 3 good columns found. 
+0.320412	0.208131	0.0021419	0.004464	0.535326
+3	sbox-9-21.txt
+There are 3 good columns found. 
+0.326908	0.119242	0.0021731	0.0053834	0.453861
+3	sbox-9-22.txt
+There are 3 good columns found. 
+0.32318	0.211132	0.0021717	0.0037025	0.540352
+3	sbox-9-23.txt
+There are 3 good columns found. 
+0.325394	0.172784	0.002226	0.0089611	0.509538
+3	sbox-9-24.txt
+There are 3 good columns found. 
+0.328352	0.101723	0.0021682	0.0068098	0.439203
+3	sbox-9-25.txt
+There are 3 good columns found. 
+0.330573	0.0746073	0.0021811	0.0057016	0.413203
+3	sbox-9-26.txt
+There are 3 good columns found. 
+0.322616	0.171903	0.0021633	0.0078806	0.504674
+3	sbox-9-27.txt
+There are 3 good columns found. 
+0.326928	0.129495	0.0022277	0.0050537	0.463805
+3	sbox-9-28.txt
+There are 3 good columns found. 
+0.324034	0.200453	0.0021976	0.003494	0.530347
+3	sbox-9-29.txt
+There are 3 good columns found. 
+0.32689	0.217304	0.0021768	0.0080872	0.55464
+3	sbox-9-30.txt
+There are 3 good columns found. 
+0.331803	0.0627573	0.0021877	0.0082639	0.405122
+3	sbox-9-31.txt
+There are 3 good columns found. 
+0.331423	0.10303	0.0022555	0.0120402	0.44885
+3	sbox-9-32.txt
+There are 3 good columns found. 
+0.32819	0.1295	0.0022135	0.011019	0.471023
+3	sbox-9-33.txt
+There are 3 good columns found. 
+0.319332	0.24802	0.0021729	0.0093549	0.579041
+3	sbox-9-34.txt
+There are 3 good columns found. 
+0.321671	0.237649	0.0022177	0.0095838	0.571286
+3	sbox-9-35.txt
+There are 3 good columns found. 
+0.32775	0.0858452	0.0021769	0.0075665	0.423449
+3	sbox-9-36.txt
+There are 3 good columns found. 
+0.331642	0.30123	0.0022829	0.0041406	0.639478
+3	sbox-9-37.txt
+There are 3 good columns found. 
+0.323062	0.139947	0.0021617	0.0044558	0.46979
+3	sbox-9-38.txt
+There are 3 good columns found. 
+0.325449	0.195861	0.0021998	0.0107272	0.534399
+3	sbox-9-39.txt
+There are 3 good columns found. 
+0.322353	0.186449	0.0021709	0.0096196	0.520751
+3	sbox-9-40.txt
+There are 3 good columns found. 
+0.323966	0.206404	0.0021796	0.0053985	0.538103
+3	sbox-9-41.txt
+There are 3 good columns found. 
+0.325896	0.142646	0.0021717	0.0155691	0.486376
+3	sbox-9-42.txt
+There are 3 good columns found. 
+0.318702	0.105846	0.0021531	0.0055667	0.432426
+3	sbox-9-43.txt
+There are 3 good columns found. 
+0.33256	0.131769	0.0022534	0.0217471	0.488435
+3	sbox-9-44.txt
+There are 3 good columns found. 
+0.324339	0.0749853	0.0021633	0.0084601	0.410022
+3	sbox-9-45.txt
+There are 3 good columns found. 
+0.324741	0.14281	0.0021642	0.0057898	0.475684
+3	sbox-9-46.txt
+There are 3 good columns found. 
+0.322127	0.103891	0.0021541	0.0065906	0.434927
+3	sbox-9-47.txt
+There are 3 good columns found. 
+0.320207	0.231894	0.0021636	0.0052882	0.559657
+3	sbox-9-48.txt
+There are 3 good columns found. 
+0.310986	0.191984	0.0021347	0.0109952	0.516255
+3	sbox-9-49.txt
+There are 3 good columns found. 
+0.32892	0.138948	0.0022106	0.0057503	0.475931
+3	sbox-9-50.txt
+There are 3 good columns found. 
+0.318517	0.137072	0.0021117	0.0022969	0.460095
+3	sbox-9-51.txt
+There are 3 good columns found. 
+0.293903	0.0887483	0.0021692	0.0027997	0.387688
+3	sbox-9-52.txt
+There are 3 good columns found. 
+0.32934	0.180228	0.0022794	0.0059376	0.517936
+3	sbox-9-53.txt
+There are 3 good columns found. 
+0.325428	0.167121	0.0021766	0.0032017	0.498034
+3	sbox-9-54.txt
+There are 3 good columns found. 
+0.331812	0.195087	0.0022302	0.0021422	0.531444
+3	sbox-9-55.txt
+There are 3 good columns found. 
+0.326226	0.124074	0.0021687	0.0052592	0.457836
+3	sbox-9-56.txt
+There are 3 good columns found. 
+0.323347	0.166398	0.0022105	0.0038233	0.49589
+3	sbox-9-57.txt
+There are 3 good columns found. 
+0.321832	0.0732192	0.0021204	0.0184494	0.415737
+3	sbox-9-58.txt
+There are 3 good columns found. 
+0.321444	0.174354	0.0021455	0.0047766	0.50283
+3	sbox-9-59.txt
+There are 3 good columns found. 
+0.319609	0.11953	0.0021036	0.0079548	0.449299
+3	sbox-9-60.txt
+There are 3 good columns found. 
+0.284212	0.141312	0.0021331	0.014487	0.442309
+3	sbox-9-61.txt
+There are 3 good columns found. 
+0.324096	0.15795	0.0021842	0.0082662	0.492653
+3	sbox-9-62.txt
+There are 3 good columns found. 
+0.331516	0.129985	0.002202	0.0115373	0.475336
+3	sbox-9-63.txt
+There are 3 good columns found. 
+0.318162	0.153434	0.0021387	0.0092354	0.483065
+3	sbox-9-64.txt
+There are 3 good columns found. 
+0.328628	0.181535	0.0022935	0.0118321	0.524441
+3	sbox-9-65.txt
+There are 3 good columns found. 
+0.31862	0.186711	0.0021486	0.0054466	0.513027
+3	sbox-9-66.txt
+There are 3 good columns found. 
+0.332862	0.131638	0.0022181	0.0058515	0.472724
+3	sbox-9-67.txt
+There are 3 good columns found. 
+0.325707	0.145834	0.0021847	0.0028189	0.476707
+3	sbox-9-68.txt
+There are 3 good columns found. 
+0.321308	0.193069	0.0021303	0.0067259	0.523337
+3	sbox-9-69.txt
+There are 3 good columns found. 
+0.322818	0.255834	0.0021716	0.0139508	0.594868
+3	sbox-9-70.txt
+There are 3 good columns found. 
+0.330061	0.174523	0.0022402	0.0032357	0.510217
+3	sbox-9-71.txt
+There are 3 good columns found. 
+0.318768	0.137411	0.0021304	0.0071	0.465504
+3	sbox-9-72.txt
+There are 3 good columns found. 
+0.330577	0.104066	0.0022628	0.0273315	0.464331
+3	sbox-9-73.txt
+There are 3 good columns found. 
+0.327266	0.158625	0.0022168	0.0157916	0.503994
+3	sbox-9-74.txt
+There are 3 good columns found. 
+0.318992	0.215207	0.0020947	0.0045233	0.54092
+3	sbox-9-75.txt
+There are 3 good columns found. 
+0.325281	0.363569	0.0022457	0.0061292	0.697437
+3	sbox-9-76.txt
+There are 3 good columns found. 
+0.327421	0.146239	0.0022744	0.0022669	0.478365
+3	sbox-9-77.txt
+There are 3 good columns found. 
+0.330662	0.133264	0.0021981	0.0042433	0.470471
+3	sbox-9-78.txt
+There are 3 good columns found. 
+0.313095	0.127641	0.0022547	0.002754	0.445868
+3	sbox-9-79.txt
+There are 3 good columns found. 
+0.326889	0.0866804	0.0021818	0.0024082	0.418305
+3	sbox-9-80.txt
+There are 3 good columns found. 
+0.32849	0.28518	0.0022716	0.003055	0.619107
+3	sbox-9-81.txt
+There are 3 good columns found. 
+0.322571	0.185206	0.0022135	0.0031265	0.513214
+3	sbox-9-82.txt
+There are 3 good columns found. 
+0.307538	0.114538	0.0021478	0.007423	0.431747
+3	sbox-9-83.txt
+There are 3 good columns found. 
+0.323109	0.143809	0.0021622	0.0039893	0.473237
+3	sbox-9-84.txt
+There are 3 good columns found. 
+0.31932	0.19604	0.0022283	0.0071804	0.524867
+3	sbox-9-85.txt
+There are 3 good columns found. 
+0.325766	0.292432	0.0022055	0.0081611	0.628755
+3	sbox-9-86.txt
+There are 3 good columns found. 
+0.329206	0.120093	0.0022119	0.0025452	0.454207
+3	sbox-9-87.txt
+There are 3 good columns found. 
+0.318026	0.166377	0.0021546	0.0197594	0.506422
+3	sbox-9-88.txt
+There are 3 good columns found. 
+0.319158	0.167974	0.0021779	0.0084599	0.497874
+3	sbox-9-89.txt
+There are 3 good columns found. 
+0.322949	0.139209	0.0021421	0.0096791	0.474085
+3	sbox-9-90.txt
+There are 3 good columns found. 
+0.326526	0.126749	0.0021802	0.0106011	0.466212
+3	sbox-9-91.txt
+There are 3 good columns found. 
+0.327131	0.0844679	0.0021602	0.0048773	0.418733
+3	sbox-9-92.txt
+There are 3 good columns found. 
+0.322869	0.290697	0.0022416	0.0091589	0.625064
+3	sbox-9-93.txt
+There are 3 good columns found. 
+0.320279	0.345529	0.0021825	0.009291	0.677478
+3	sbox-9-94.txt
+There are 3 good columns found. 
+0.332155	0.0962329	0.0022241	0.0028248	0.43358
+3	sbox-9-95.txt
+There are 3 good columns found. 
+0.316419	0.234829	0.0020664	0.0057672	0.559193
+3	sbox-9-96.txt
+There are 3 good columns found. 
+0.325285	0.138279	0.0021769	0.0046372	0.47053
+3	sbox-9-97.txt
+There are 3 good columns found. 
+0.321324	0.184007	0.0022345	0.0093278	0.516994
+3	sbox-9-98.txt
+There are 3 good columns found. 
+0.32377	0.204825	0.0021702	0.0045921	0.535498
+3	sbox-9-99.txt
+There are 3 good columns found. 
+0.326814	0.190663	0.0022596	0.0059374	0.525834
