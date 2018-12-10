@@ -1,0 +1,300 @@
+4	sbox-11-0.txt
+There are 4 good columns found. 
+40.6947	10.5059	0.073591	0.277904	51.5658
+4	sbox-11-1.txt
+There are 4 good columns found. 
+58.0925	36.3359	0.073477	0.119569	94.6847
+4	sbox-11-2.txt
+There are 4 good columns found. 
+36.6293	7.82773	0.073992	0.131409	44.6709
+4	sbox-11-3.txt
+There are 4 good columns found. 
+56.152	19.8361	0.075427	0.285748	76.3856
+4	sbox-11-4.txt
+There are 4 good columns found. 
+38.2795	15.1466	0.074177	0.402538	53.9236
+4	sbox-11-5.txt
+There are 4 good columns found. 
+54.7308	14.5411	0.076057	0.450232	69.8242
+4	sbox-11-6.txt
+There are 4 good columns found. 
+37.619	12.1996	0.078048	0.305431	50.2169
+4	sbox-11-7.txt
+There are 4 good columns found. 
+54.1826	14.9398	0.072887	0.47986	69.7013
+4	sbox-11-8.txt
+There are 4 good columns found. 
+39.4344	21.9967	0.074243	0.416186	61.949
+4	sbox-11-9.txt
+There are 4 good columns found. 
+55.2605	17.9839	0.074786	0.273009	73.6222
+4	sbox-11-10.txt
+There are 4 good columns found. 
+53.3619	9.07247	0.073542	0.304478	62.8272
+4	sbox-11-11.txt
+There are 4 good columns found. 
+37.7147	16.0193	0.074305	0.366131	54.1929
+4	sbox-11-12.txt
+There are 4 good columns found. 
+54.6641	11.7815	0.074589	0.598777	67.1446
+4	sbox-11-13.txt
+There are 4 good columns found. 
+37.6203	13.0847	0.074151	0.322213	51.118
+4	sbox-11-14.txt
+There are 4 good columns found. 
+53.2233	5.41165	0.073746	0.333835	59.0503
+4	sbox-11-15.txt
+There are 4 good columns found. 
+39.8356	20.0382	0.07404	0.200363	60.1994
+4	sbox-11-16.txt
+There are 4 good columns found. 
+53.6544	8.80599	0.073087	0.207702	62.7549
+4	sbox-11-17.txt
+There are 4 good columns found. 
+52.6411	4.51577	0.073895	0.244899	57.4823
+4	sbox-11-18.txt
+There are 4 good columns found. 
+37.6529	12.1371	0.077931	0.851272	50.734
+4	sbox-11-19.txt
+There are 4 good columns found. 
+37.1916	7.47402	0.074463	0.719699	45.4783
+4	sbox-11-20.txt
+There are 4 good columns found. 
+38.1158	11.0615	0.074007	0.540544	49.8096
+4	sbox-11-21.txt
+There are 4 good columns found. 
+50.5681	8.18795	0.07336	0.699438	59.5423
+4	sbox-11-22.txt
+There are 4 good columns found. 
+38.0785	11.846	0.078281	0.620665	50.6422
+4	sbox-11-23.txt
+There are 4 good columns found. 
+37.9836	13.9203	0.073956	0.115935	52.1124
+4	sbox-11-24.txt
+There are 4 good columns found. 
+50.9967	9.01333	0.075309	0.273678	60.3767
+4	sbox-11-25.txt
+There are 4 good columns found. 
+49.5491	6.94924	0.073627	0.603769	57.1874
+4	sbox-11-26.txt
+There are 4 good columns found. 
+37.5283	10.1796	0.074267	0.57958	48.3765
+4	sbox-11-27.txt
+There are 4 good columns found. 
+36.9114	6.47793	0.074202	0.213269	43.686
+4	sbox-11-28.txt
+There are 4 good columns found. 
+54.4474	29.8024	0.072955	0.681187	85.0599
+4	sbox-11-29.txt
+There are 4 good columns found. 
+36.7108	6.30406	0.074037	0.651225	43.7492
+4	sbox-11-30.txt
+There are 4 good columns found. 
+37.308	8.23703	0.074067	0.429339	46.0613
+4	sbox-11-31.txt
+There are 4 good columns found. 
+52.1973	19.4748	0.072923	0.613334	72.3938
+4	sbox-11-32.txt
+There are 4 good columns found. 
+49.9278	9.02337	0.073023	0.286495	59.3285
+4	sbox-11-33.txt
+There are 4 good columns found. 
+49.7959	10.2339	0.072615	0.170528	60.2904
+4	sbox-11-34.txt
+There are 4 good columns found. 
+38.5928	14.3045	0.073996	0.63458	53.6313
+4	sbox-11-35.txt
+There are 4 good columns found. 
+50.5486	14.3349	0.077311	0.672619	65.655
+4	sbox-11-36.txt
+There are 4 good columns found. 
+37.4853	9.20741	0.07432	0.120125	46.902
+4	sbox-11-37.txt
+There are 4 good columns found. 
+50.017	5.94838	0.087185	0.690475	56.7554
+4	sbox-11-38.txt
+There are 4 good columns found. 
+39.4929	19.9232	0.073938	0.164914	59.686
+4	sbox-11-39.txt
+There are 4 good columns found. 
+54.5501	31.3529	0.07366	0.210015	86.2431
+4	sbox-11-40.txt
+There are 4 good columns found. 
+50.0939	15.5181	0.073421	0.426556	66.1367
+4	sbox-11-41.txt
+There are 4 good columns found. 
+50.2562	13.8186	0.073802	0.340163	64.5146
+4	sbox-11-42.txt
+There are 4 good columns found. 
+38.0603	13.3283	0.073487	0.124352	51.6044
+4	sbox-11-43.txt
+There are 4 good columns found. 
+38.2277	15.8858	0.07424	0.390098	54.5982
+4	sbox-11-44.txt
+There are 4 good columns found. 
+37.8992	13.6825	0.073898	0.160674	51.8343
+4	sbox-11-45.txt
+There are 4 good columns found. 
+52.1308	18.3831	0.076166	0.060953	70.6835
+4	sbox-11-46.txt
+There are 4 good columns found. 
+37.303	11.4099	0.088393	0.626806	49.44
+4	sbox-11-47.txt
+There are 4 good columns found. 
+36.8854	7.77835	0.07402	0.906023	45.6538
+4	sbox-11-48.txt
+There are 4 good columns found. 
+38.3872	17.8336	0.073843	0.503379	56.8197
+4	sbox-11-49.txt
+There are 4 good columns found. 
+37.0289	9.5924	0.07392	0.703422	47.41
+4	sbox-11-50.txt
+There are 4 good columns found. 
+38.1336	15.9706	0.073872	0.838958	55.0369
+4	sbox-11-51.txt
+There are 4 good columns found. 
+36.7129	7.01395	0.074143	0.99193	44.8078
+4	sbox-11-52.txt
+There are 4 good columns found. 
+52.2633	14.5053	0.072687	0.704822	67.5718
+4	sbox-11-53.txt
+There are 4 good columns found. 
+37.5036	11.0263	0.073166	0.249959	48.8664
+4	sbox-11-54.txt
+There are 4 good columns found. 
+50.9469	9.65246	0.07458	0.494297	61.1857
+4	sbox-11-55.txt
+There are 4 good columns found. 
+37.3061	14.2714	0.093647	0.477257	52.1626
+4	sbox-11-56.txt
+There are 4 good columns found. 
+37.0095	8.32024	0.073963	0.598755	46.0128
+4	sbox-11-57.txt
+There are 4 good columns found. 
+38.3136	20.256	0.074063	1.04215	59.7057
+4	sbox-11-58.txt
+There are 4 good columns found. 
+36.7492	6.43326	0.074017	0.91412	44.1792
+4	sbox-11-59.txt
+There are 4 good columns found. 
+56.3469	18.5269	0.075316	0.429738	75.4113
+4	sbox-11-60.txt
+There are 4 good columns found. 
+37.1514	6.40405	0.074128	0.367673	44.0049
+4	sbox-11-61.txt
+There are 4 good columns found. 
+37.246	9.64493	0.074099	0.526298	47.5029
+4	sbox-11-62.txt
+There are 4 good columns found. 
+56.0854	10.3847	0.079766	0.327658	66.8977
+4	sbox-11-63.txt
+There are 4 good columns found. 
+54.9681	5.99699	0.075549	0.838329	61.889
+4	sbox-11-64.txt
+There are 4 good columns found. 
+36.9587	8.2665	0.074212	0.561343	45.8714
+4	sbox-11-65.txt
+There are 4 good columns found. 
+55.327	6.90804	0.091327	0.145596	62.4802
+4	sbox-11-66.txt
+There are 4 good columns found. 
+37.134	8.30334	0.074115	0.496211	46.0197
+4	sbox-11-67.txt
+There are 4 good columns found. 
+54.8546	5.47981	0.072617	0.692054	61.1064
+4	sbox-11-68.txt
+There are 4 good columns found. 
+37.3105	8.25149	0.074059	0.226627	45.8772
+4	sbox-11-69.txt
+There are 4 good columns found. 
+55.7085	8.97902	0.073357	0.11245	64.8888
+4	sbox-11-70.txt
+There are 4 good columns found. 
+38.0366	14.8887	0.074105	0.462146	53.4819
+4	sbox-11-71.txt
+There are 4 good columns found. 
+56.4291	13.3486	0.076944	0.70334	70.58
+4	sbox-11-72.txt
+There are 4 good columns found. 
+50.7304	10.7802	0.073762	0.372461	61.9726
+4	sbox-11-73.txt
+There are 4 good columns found. 
+36.7917	6.85617	0.074214	0.399532	44.1304
+4	sbox-11-74.txt
+There are 4 good columns found. 
+51.0269	9.51283	0.073625	0.223717	60.8513
+4	sbox-11-75.txt
+There are 4 good columns found. 
+51.2232	11.7642	0.074317	0.178258	63.2602
+4	sbox-11-76.txt
+There are 4 good columns found. 
+37.0163	8.46493	0.073989	0.563073	46.1285
+4	sbox-11-77.txt
+There are 4 good columns found. 
+53.426	23.3454	0.075155	0.430663	77.3174
+4	sbox-11-78.txt
+There are 4 good columns found. 
+52.0367	20.2421	0.073232	0.371638	72.7548
+4	sbox-11-79.txt
+There are 4 good columns found. 
+37.7853	11.6445	0.073986	0.876136	50.3951
+4	sbox-11-80.txt
+There are 4 good columns found. 
+37.5718	11.7179	0.07337	0.271631	49.6487
+4	sbox-11-81.txt
+There are 4 good columns found. 
+51.4041	9.36939	0.073727	0.428573	61.2912
+4	sbox-11-82.txt
+There are 4 good columns found. 
+38.0479	14.2473	0.074087	0.41244	52.8039
+4	sbox-11-83.txt
+There are 4 good columns found. 
+36.7708	6.12195	0.074473	0.629403	43.6059
+4	sbox-11-84.txt
+There are 4 good columns found. 
+38.9589	20.793	0.074167	0.214259	60.0673
+4	sbox-11-85.txt
+There are 4 good columns found. 
+54.8141	34.3025	0.074278	0.178685	89.4274
+4	sbox-11-86.txt
+There are 4 good columns found. 
+37.6439	11.3587	0.074182	0.382695	49.4743
+4	sbox-11-87.txt
+There are 4 good columns found. 
+51.8445	14.2365	0.074347	0.750421	66.9314
+4	sbox-11-88.txt
+There are 4 good columns found. 
+50.2357	7.37233	0.073566	0.347529	58.0427
+4	sbox-11-89.txt
+There are 4 good columns found. 
+49.8461	7.50297	0.073196	0.208947	57.6435
+4	sbox-11-90.txt
+There are 4 good columns found. 
+53.3115	27.3048	0.073664	0.502361	81.2387
+4	sbox-11-91.txt
+There are 4 good columns found. 
+37.399	9.24702	0.073981	0.583136	47.3163
+4	sbox-11-92.txt
+There are 4 good columns found. 
+51.1211	5.4126	0.074934	0.15856	56.7753
+4	sbox-11-93.txt
+There are 4 good columns found. 
+37.7135	11.4312	0.073676	0.761938	49.9955
+4	sbox-11-94.txt
+There are 4 good columns found. 
+37.0451	8.65682	0.073866	0.065304	45.8525
+4	sbox-11-95.txt
+There are 4 good columns found. 
+53.2613	21.2112	0.073149	0.819609	75.3992
+4	sbox-11-96.txt
+There are 4 good columns found. 
+40.0941	25.2391	0.073899	0.473248	65.9136
+4	sbox-11-97.txt
+There are 4 good columns found. 
+55.183	21.9918	0.076758	0.590232	77.8824
+4	sbox-11-98.txt
+There are 4 good columns found. 
+39.5899	13.2168	0.074484	0.487103	53.3978
+4	sbox-11-99.txt
+There are 4 good columns found. 
+36.7303	6.92732	0.073904	0.145586	43.8856
