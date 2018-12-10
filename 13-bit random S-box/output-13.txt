@@ -1,0 +1,300 @@
+6	sbox-13-0.txt
+There are 6 good columns found. 
+8431.83	1720.86	4.49313	4.06844	10164
+6	sbox-13-1.txt
+There are 6 good columns found. 
+7381.44	880.615	4.93451	7.68288	8276.69
+6	sbox-13-2.txt
+There are 6 good columns found. 
+7591.37	713.416	4.93723	2.1035	8313.18
+6	sbox-13-3.txt
+There are 6 good columns found. 
+6956.64	588.222	4.50371	3.82628	7554.14
+6	sbox-13-4.txt
+There are 6 good columns found. 
+7601.82	1073.08	4.61387	3.63641	8684.94
+6	sbox-13-5.txt
+There are 6 good columns found. 
+6785.64	571.053	4.53813	2.23085	7364.36
+6	sbox-13-6.txt
+There are 6 good columns found. 
+7381.56	1016.14	5.03669	4.79117	8409.26
+6	sbox-13-7.txt
+There are 6 good columns found. 
+7439.24	600.682	5.0894	2.70461	8049.04
+6	sbox-13-8.txt
+There are 6 good columns found. 
+7552.57	742.807	4.47623	4.20086	8305.18
+6	sbox-13-9.txt
+There are 6 good columns found. 
+7593.57	1134.72	4.51809	4.38278	8738.97
+6	sbox-13-10.txt
+There are 6 good columns found. 
+7340.58	990.377	4.34391	1.616	8338.47
+6	sbox-13-11.txt
+There are 6 good columns found. 
+8004.34	1341.05	4.61715	4.55687	9356.78
+6	sbox-13-12.txt
+There are 6 good columns found. 
+8163.58	1297.55	4.87704	10.2874	9478.58
+6	sbox-13-13.txt
+There are 6 good columns found. 
+8014.42	1037.66	4.50781	3.53978	9061.81
+6	sbox-13-14.txt
+There are 6 good columns found. 
+7095.09	754.485	4.51647	1.42566	7856.74
+6	sbox-13-15.txt
+There are 6 good columns found. 
+6528.5	415.568	4.43198	3.46915	6952.58
+6	sbox-13-16.txt
+There are 6 good columns found. 
+6742.93	542.018	4.62909	2.07808	7292.5
+6	sbox-13-17.txt
+There are 6 good columns found. 
+7012.13	706.406	4.34264	5.47394	7729.55
+6	sbox-13-18.txt
+There are 6 good columns found. 
+7000.28	763.755	4.51358	2.13694	7771.84
+6	sbox-13-19.txt
+There are 6 good columns found. 
+7444.38	754.986	4.83829	8.8322	8214.25
+6	sbox-13-20.txt
+There are 6 good columns found. 
+8080.2	1229.72	4.56642	2.65311	9318.88
+6	sbox-13-21.txt
+There are 6 good columns found. 
+6932.52	730.235	4.34946	1.25344	7669.54
+6	sbox-13-22.txt
+There are 6 good columns found. 
+6606.78	473.232	4.55398	1.3449	7086.6
+6	sbox-13-23.txt
+There are 6 good columns found. 
+7267.89	966.801	4.5693	1.45074	8242.15
+6	sbox-13-24.txt
+There are 6 good columns found. 
+7378.74	974.698	4.5344	1.26582	8360.88
+6	sbox-13-25.txt
+There are 6 good columns found. 
+6842.38	623.097	4.44034	2.32176	7473.22
+6	sbox-13-26.txt
+There are 6 good columns found. 
+7651.5	1102.34	4.64076	5.46245	8765.75
+6	sbox-13-27.txt
+There are 6 good columns found. 
+6768.5	701.069	4.48874	1.91465	7477.08
+6	sbox-13-28.txt
+There are 6 good columns found. 
+7250.94	929.024	4.61877	2.62961	8188.65
+6	sbox-13-29.txt
+There are 6 good columns found. 
+6587.15	509.552	4.57321	4.63921	7106.63
+6	sbox-13-30.txt
+There are 6 good columns found. 
+7284	936.408	4.61716	1.34392	8227.81
+6	sbox-13-31.txt
+There are 6 good columns found. 
+7110.02	855.865	4.49701	2.39833	7974.11
+6	sbox-13-32.txt
+There are 6 good columns found. 
+6897.18	709.804	4.48528	2.37333	7614.9
+6	sbox-13-33.txt
+There are 6 good columns found. 
+7366.93	1028.43	4.62552	3.13955	8404.79
+6	sbox-13-34.txt
+There are 6 good columns found. 
+6586.64	502.999	4.50283	4.9567	7099.8
+6	sbox-13-35.txt
+There are 6 good columns found. 
+6603.67	486.522	4.41699	1.78655	7097.13
+6	sbox-13-36.txt
+There are 6 good columns found. 
+6746.64	525.256	4.69457	1.96033	7279.33
+6	sbox-13-37.txt
+There are 6 good columns found. 
+7494.56	1019.27	4.53625	3.20345	8523.26
+6	sbox-13-38.txt
+There are 6 good columns found. 
+6498.41	402.961	4.54929	3.67081	6910.15
+6	sbox-13-39.txt
+There are 6 good columns found. 
+6501.94	418.857	4.44099	2.81846	6928.65
+6	sbox-13-40.txt
+There are 6 good columns found. 
+7217.04	874.354	4.44541	2.3379	8099.58
+6	sbox-13-41.txt
+There are 6 good columns found. 
+7682.45	1275.21	4.57723	1.69107	8965.86
+6	sbox-13-42.txt
+There are 6 good columns found. 
+7613.82	1237.06	4.24834	4.34406	8861.4
+6	sbox-13-43.txt
+There are 6 good columns found. 
+6738.88	548.201	4.50023	4.75961	7297.17
+6	sbox-13-44.txt
+There are 6 good columns found. 
+6778.52	474.996	4.51722	2.58422	7261.43
+6	sbox-13-45.txt
+There are 6 good columns found. 
+6839.84	594.176	4.58987	1.17161	7440.72
+6	sbox-13-46.txt
+There are 6 good columns found. 
+6779.15	561.727	4.53685	3.54459	7349.78
+6	sbox-13-47.txt
+There are 6 good columns found. 
+6788.95	546.063	4.44421	7.96926	7348.29
+6	sbox-13-48.txt
+There are 6 good columns found. 
+7171.21	762.797	4.47908	3.10253	7942.81
+6	sbox-13-49.txt
+There are 6 good columns found. 
+7100.18	755.452	4.487	4.78847	7866.09
+6	sbox-13-50.txt
+There are 6 good columns found. 
+7078.66	819.064	4.48284	3.54511	7906.97
+6	sbox-13-51.txt
+There are 6 good columns found. 
+7201.16	910.112	4.43475	1.63513	8118.72
+6	sbox-13-52.txt
+There are 6 good columns found. 
+7158.84	832.884	4.64217	3.72107	8001.43
+6	sbox-13-53.txt
+There are 6 good columns found. 
+6545.21	377.541	4.47129	1.76944	6929.54
+6	sbox-13-54.txt
+There are 6 good columns found. 
+7267.09	870.677	4.46381	4.34349	8147.96
+6	sbox-13-55.txt
+There are 6 good columns found. 
+6793.73	623.407	4.47607	1.56447	7424.1
+6	sbox-13-56.txt
+There are 6 good columns found. 
+7924.34	1292.87	4.52416	1.31874	9225.12
+6	sbox-13-57.txt
+There are 6 good columns found. 
+6842.97	579.017	4.74394	3.28302	7430.89
+6	sbox-13-58.txt
+There are 6 good columns found. 
+8413.81	1717.84	4.52658	3.75298	10142.6
+6	sbox-13-59.txt
+There are 6 good columns found. 
+7668.58	1102.62	4.41673	2.54593	8780.06
+6	sbox-13-60.txt
+There are 6 good columns found. 
+6379.03	296.739	4.43361	2.55352	6683.17
+6	sbox-13-61.txt
+There are 6 good columns found. 
+6689.28	453.569	4.60775	3.411	7151.55
+6	sbox-13-62.txt
+There are 6 good columns found. 
+7331.97	883.759	4.55334	3.51291	8225.27
+6	sbox-13-63.txt
+There are 6 good columns found. 
+7393.02	1041.05	4.47592	3.66073	8443.8
+6	sbox-13-64.txt
+There are 6 good columns found. 
+8213.67	1615.6	4.37537	5.09901	9841.2
+6	sbox-13-65.txt
+There are 6 good columns found. 
+6715.3	521.71	4.53162	1.64665	7243.97
+6	sbox-13-66.txt
+There are 6 good columns found. 
+7205.85	871.843	4.53843	2.05127	8085.6
+6	sbox-13-67.txt
+There are 6 good columns found. 
+7173.5	854.423	4.47975	3.35022	8036.97
+6	sbox-13-68.txt
+There are 6 good columns found. 
+7703.35	1250.17	4.35885	5.38439	8965.27
+6	sbox-13-69.txt
+There are 6 good columns found. 
+7536.69	1056.4	4.55914	3.09228	8602.46
+6	sbox-13-70.txt
+There are 6 good columns found. 
+7178.08	868.304	4.51777	3.69382	8055.86
+6	sbox-13-71.txt
+There are 6 good columns found. 
+9590.71	2599.08	4.37923	5.20603	12203.4
+6	sbox-13-72.txt
+There are 6 good columns found. 
+7757.29	1182	4.37036	4.74197	8950.4
+6	sbox-13-73.txt
+There are 6 good columns found. 
+7542.37	1060.35	4.49788	1.73045	8610.68
+6	sbox-13-74.txt
+There are 6 good columns found. 
+7048.7	683.735	4.55701	2.51659	7740.57
+6	sbox-13-75.txt
+There are 6 good columns found. 
+7426.89	992.76	4.472	3.93296	8429.64
+6	sbox-13-76.txt
+There are 6 good columns found. 
+7266.44	889.769	4.53318	4.27314	8166.3
+6	sbox-13-77.txt
+There are 6 good columns found. 
+6859.04	564.682	4.38712	1.51895	7430.48
+6	sbox-13-78.txt
+There are 6 good columns found. 
+7035.85	674.568	4.5384	1.71317	7717.66
+6	sbox-13-79.txt
+There are 6 good columns found. 
+7467.38	1038.02	4.43894	1.96721	8513.47
+6	sbox-13-80.txt
+There are 6 good columns found. 
+6843.8	542.452	4.30456	2.24582	7393.65
+6	sbox-13-81.txt
+There are 6 good columns found. 
+6488.73	297.541	4.36644	1.51929	6792.59
+6	sbox-13-82.txt
+There are 6 good columns found. 
+7181.28	862.312	4.49721	3.01317	8052.43
+6	sbox-13-83.txt
+There are 6 good columns found. 
+7919.66	1193.27	4.49007	4.51161	9123.96
+6	sbox-13-84.txt
+There are 6 good columns found. 
+6535.82	507.859	4.37914	3.78472	7052.57
+6	sbox-13-85.txt
+There are 6 good columns found. 
+6821.37	598.252	4.49896	2.91284	7427.88
+6	sbox-13-86.txt
+There are 6 good columns found. 
+6609.62	454.488	4.39963	1.8253	7070.92
+6	sbox-13-87.txt
+There are 6 good columns found. 
+6817.17	562.155	4.56864	1.18784	7385.86
+6	sbox-13-88.txt
+There are 6 good columns found. 
+7248.96	954.39	4.45446	2.94425	8212.12
+6	sbox-13-89.txt
+There are 6 good columns found. 
+7946.5	1232.21	4.44759	3.17018	9188.42
+6	sbox-13-90.txt
+There are 6 good columns found. 
+6599.18	394.758	4.49256	3.73789	7002.65
+6	sbox-13-91.txt
+There are 6 good columns found. 
+6918.84	713.607	4.53749	1.52429	7639.54
+6	sbox-13-92.txt
+There are 6 good columns found. 
+7715.24	1208.08	4.49019	3.21763	8932.95
+6	sbox-13-93.txt
+There are 6 good columns found. 
+7181.28	836.849	4.43407	6.12643	8029.98
+6	sbox-13-94.txt
+There are 6 good columns found. 
+8166.68	1436.95	4.79833	11.0932	9622.04
+6	sbox-13-95.txt
+There are 6 good columns found. 
+7449.45	783.321	4.61689	5.25778	8243.96
+6	sbox-13-96.txt
+There are 6 good columns found. 
+6540.77	473.616	4.36657	3.69244	7023.11
+6	sbox-13-97.txt
+There are 6 good columns found. 
+6796.17	592.688	4.51682	4.65273	7398.93
+6	sbox-13-98.txt
+There are 6 good columns found. 
+7567.47	1095.14	5.13302	8.06685	8677.62
+6	sbox-13-99.txt
+There are 6 good columns found. 
+7081.94	516.062	5.19188	3.03118	7606.98
